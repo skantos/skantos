@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Samuel Gajardo
 
-Soy un **Ingeniero Informático** con pasión por el desarrollo de aplicaciones y manejo de bases de datos. Mi objetivo es brindar soluciones innovadoras mientras enfrento nuevos desafíos y aprendo tecnologías emergentes.
+Soy un **Ingeniero Informático** con pasión por el desarrollo de aplicaciones, manejo de bases de datos y desarrollo Web. Siempre dispues a aprender nuevas tecnologías 
 
 - 🎓 **Formación**: Ingeniero en Informática de Inacap (2021-2024)
 - 🔧 **Habilidades**: JavaScript, React, Node.js, Firebase, entre otros.
