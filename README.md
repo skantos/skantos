@@ -1,20 +1,19 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Samuel Gajardo
 
-Soy un desarrollador apasionado por la tecnología y la creación de soluciones innovadoras. 🚀
+Soy un **Ingeniero Informático** con pasión por el desarrollo de aplicaciones y manejo de bases de datos. Mi objetivo es brindar soluciones innovadoras mientras enfrento nuevos desafíos y aprendo tecnologías emergentes.
 
-- 🔭 Actualmente trabajando en [nombre del proyecto].
-- 🌱 Aprendiendo sobre inteligencia artificial y machine learning.
-- 💬 Pregúntame sobre **JavaScript**, **React** y **Firebase**.
-- 📫 Contacto: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- 🎓 **Formación**: Ingeniero en Informática de Inacap (2021-2024)
+- 🔧 **Habilidades**: JavaScript, React, Node.js, Firebase, entre otros.
+- 🌱 Actualmente aprendiendo: Análisis de datos y machine learning.
+- 💼 Experiencia: Desarrollo de la aplicación Montino para una pyme local.
 
-![GIF de Bienvenida](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
+## 🚀 Proyectos Destacados
 
-## 🚀 Tecnologías que uso
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### 📦 Montino App
+Aplicación de escritorio para gestión de inventario y ventas en un minimarket.
 
-## 📊 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+🔗 [Ver más proyectos en mi portafolio](https://portafoliosamuel.netlify.app/)
+
+## 📫 Contacto
+- 📧 Email: s.g.g.j.2003@gmail.com
+- 🌐 [Mi Portafolio](https://portafoliosamuel.netlify.app/)
