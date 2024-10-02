@@ -1,32 +1,36 @@
-# 👋 ¡Hola! Soy Samuel Gajardo
+# 👋 Hi! I'm Samuel Gajardo
 
-Soy un **Ingeniero Informático** con pasión por el desarrollo de aplicaciones, manejo de bases de datos y desarrollo Web. Siempre dispues a aprender nuevas tecnologías 
+I'm an **Informatics Engineer** with a passion for application development, database management, and web development. Always eager to learn new technologies.
 
-- 🎓 **Formación**: Ingeniero en Informática de Inacap (2021-2024)
-- 🌱 **Actualmente aprendiendo**: Análisis de datos y machine learning.
-- 🔧 **Habilidades**: JavaScript, React, Node.js, Firebase, Python.
-- 💼 **Experiencia**: Desarrollo de la aplicación **Montino** para una pyme local.
-- 🌍 **Ubicación**: Santiago, Chile
+---
 
-## 🚀 Proyectos Destacados
+# ![Samuel Gajardo Banner](github-header-image.png)
+
+- 🎓 **Education**: Informatics Engineering from Inacap (2021-2024)
+- 🌱 **Currently learning**: Data analysis and machine learning.
+- 🔧 **Skills**: JavaScript, React, Node.js, Firebase, Python.
+- 💼 **Experience**: Developed the **Montino** app for a local small business.
+- 🌍 **Location**: Santiago, Chile
+
+## 🚀 Featured Projects
 
 ### 📦 **Montino App**
-Aplicación de escritorio para gestión de inventario y ventas en un minimarket.
+A desktop application for inventory and sales management in a minimarket.
 
-🔗 [Ver más proyectos en mi portafolio](https://portafoliosamuel.netlify.app/)
+🔗 [Check out more projects on my portfolio](https://portafoliosamuel.netlify.app/)
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=skantos&show_icons=true&theme=radical)
 
-## 📫 Contacto
+## 📫 Contact
 - 📧 Email: s.g.g.j.2003@gmail.com
-- 🌐 [Mi Portafolio](https://portafoliosamuel.netlify.app/)
+- 🌐 [My Portfolio](https://portafoliosamuel.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-gajardos/)
 
 ---
 
-### 🧑‍💻 Tecnologías y Herramientas
+### 🧑‍💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -36,10 +40,4 @@ Aplicación de escritorio para gestión de inventario y ventas en un minimarket.
 
 ---
 
-### 🔥 ¿Quieres saber más?
-
-**Portafolio**: [portafoliosamuel.netlify.app](https://portafoliosamuel.netlify.app/)
-
----
-
-![GIF de Programación](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
