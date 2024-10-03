@@ -17,7 +17,6 @@ I'm an **Informatics Engineer** with a passion for application development, data
 ### 📦 **Montino App**
 A desktop application for inventory and sales management in a minimarket.
 
-🔗 [Check out more projects on my portfolio](https://portafoliosamuel.netlify.app/)
 
 ## 📈 GitHub Stats
 
@@ -25,7 +24,7 @@ A desktop application for inventory and sales management in a minimarket.
 
 ## 📫 Contact
 - 📧 Email: s.g.g.j.2003@gmail.com
-- 🌐 [My Portfolio](https://portafoliosamuel.netlify.app/)
+- 🌐 [My Portfolio](https://mi-portafolio-git-main-samus-projects-9f65b7a9.vercel.app//)
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-gajardos/)
 
 ---
