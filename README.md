@@ -24,8 +24,7 @@ A desktop application for inventory and sales management in a minimarket.
 
 ## 📫 Contact
 - 📧 Email: s.g.g.j.2003@gmail.com
-- 🌐 [My Portfolio](https://mi-portafolio-git-main-samus-projects-9f65b7a9.vercel.app//)
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-gajardos/)
+- 🌐 [My Portfolio](https://porfoliosamuel-33f2d.firebaseapp.com///)
 
 ---
 
